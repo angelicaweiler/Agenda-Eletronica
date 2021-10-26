@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Agenda Eletronica, Configuration: Debug Any CPU ------
+1>  Agenda Eletronica -> C:\Users\User\source\repos\Agenda Eletronica\Agenda Eletronica\bin\Debug\Agenda Eletronica.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
